@@ -1,0 +1,37 @@
+.textlink{
+    text-decoration: none;
+    font-family: "IBM Plex Sans";
+    font-style: normal;
+}
+
+.imge{
+    border-radius: 0%;
+    size-adjust: initial;
+}
+
+.verMasHome{
+    text-align: right;
+    
+}
+
+.link {
+    display: flex;
+    font-family: "IBM Plex Sans";
+    font-style: normal;
+    font-weight: 400;
+  }
+
+  .descripcion{
+    padding-left: 1pc;
+  }
+
+  .footCard {
+    display: inherit;
+    align-items: center;
+    justify-content: space-between;
+    
+  }
+
+  .cardFicha{
+    padding: 2px;
+  }

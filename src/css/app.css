@@ -1,0 +1,75 @@
+.subTitleDiv {
+    align-items: center;
+    padding:1pc
+}
+
+.doLab{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+
+.centerLogoPicture {
+    text-align: right;
+    display: block;
+    padding: 0;
+    padding-top: 2%;
+    padding-right: 2%;
+    
+}
+
+
+.Lindiv {
+    color:rgb(200, 200, 200);
+    background-color: rgb(159, 159, 159);
+    width: 100%;
+    border: 0.5px solid #dcdcdc;
+}
+
+.text-justify {
+    text-align: justify;    
+  }
+
+  .imagen-destacada {
+    width: 200px;
+    border-radius: 50%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    /* Otros estilos según sea necesario */
+  }
+
+.contenedor{
+    position: relative;
+    padding-top: 56.25%;
+}
+
+.react-player{
+    position: absolute;
+    top:0;
+    left: 0;
+}
+
+.descripcion {
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+
+.CardNombre {
+    margin-bottom: 10%;
+}
+
+.descripcionFicha {
+    padding: 5%;
+    overflow-wrap: anywhere;
+}
+
+.verMas{
+    text-align: left;
+    padding-top: 4%;
+}
+.divCardFicha {
+    padding-bottom: 10%;
+    
+}
+
